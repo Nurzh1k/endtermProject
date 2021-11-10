@@ -1,0 +1,16 @@
+{
+  "name": "endterm",
+  "version": "1.0.0",
+  "description": "endterm project ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "endterm",
+    "node",
+    "nodejs"
+  ],
+  "author": "Nurzhan Moldash, <203027@astanait.edu.kz>",
+  "license": "ISC"
+}
